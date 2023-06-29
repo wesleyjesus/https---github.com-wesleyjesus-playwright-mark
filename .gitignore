@@ -1,0 +1,9 @@
+#Pastas de configuração
+.vscode
+node_modules
+playwright-report
+
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
